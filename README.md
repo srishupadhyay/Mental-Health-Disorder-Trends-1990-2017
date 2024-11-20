@@ -1,11 +1,11 @@
-# Mental-Health-Disorder-Trends-1990-2017
+# Mental Health Disorder Trends - (1990-2017)
 
  
-## Project Overview
+## Project Overview 📝
 This project analyzes global mental health disorder trends over multiple decades, focusing on key metrics such as anxiety, bipolar disorder, schizophrenia, eating disorders, alcohol dependency, and depression. Using an interactive dashboard, this project provides insights into the global prevalence, geographic hotspots, and actionable recommendations to improve mental health outcomes.
 
 
-## Dashboard Overview
+## Dashboard Overview 📊
 <p align="center">
   <a href="https://github.com/srishupadhyay/Mental-Health-Disorder-Trends-1990-2017/blob/cf6838f070610ee86ebdff3af89fa4dba4d87b12/Dashboard%20File/Global%20Mental%20Health%20Disorder%20-%20Dashboard.pbix">
     Click here to download the Global Mental Health Disorder Dashboard (.pbix)
@@ -33,11 +33,11 @@ Resources
 Dataset: The dataset used in this analysis is publicly available and focuses on global mental health metrics.
 Dashboard Access: Download Here
 
-## Data
+## Data 📂
 
 <div align="center">
 
-[Click here to download the dataset](https://github.com/srishupadhyay/Mental-Health-Disorder-Trends-1990-2017/blob/132424037a44dcb8cee64be050e837038ff8d1e3/Data/Mental%20health%20Depression%20disorder%20Data.csv)
+[Click here to download the dataset (.csv) ](https://github.com/srishupadhyay/Mental-Health-Disorder-Trends-1990-2017/blob/132424037a44dcb8cee64be050e837038ff8d1e3/Data/Mental%20health%20Depression%20disorder%20Data.csv)
 
 </div>
 
@@ -62,7 +62,7 @@ Dashboard Access: Download Here
 </div>
 
 
-## Key Insights and Findings
+## Key Insights and Findings 🔍
 #### 1. Anxiety Disorders
 
 Trend (1990–2017): Anxiety disorder prevalence increased steadily from 3.96% in 1990 to a peak of 4.004% in 2010 before a slight decline to 4.002% by 2017. The consistent rise suggests increasing societal stress or improved diagnostics globally. Governments should focus on awareness campaigns and early diagnosis to mitigate this trend.
