@@ -17,13 +17,14 @@ This project analyzes global mental health disorder trends over multiple decades
 
 The interactive dashboard includes the following visualizations:
 
-• Global Trends in Anxiety Disorders (1990–2017)
+- **Global Trends in Anxiety Disorders (1990–2017)**
 
-• Bipolar Disorder Heatmap
+- **Bipolar Disorder Heatmap**
 
-• Top 5 Countries with Highest Alcohol Dependency Rates
+- **Top 5 Countries with Highest Alcohol Dependency Rates**
 
-• Schizophrenia, Eating Disorder, and Depression Metrics by Country
+- **Schizophrenia, Eating Disorder, and Depression Metrics by Country**
+
 
 Conclusion
 This project highlights critical global mental health challenges and identifies areas for targeted intervention. With a data-driven approach, policymakers and stakeholders can implement effective strategies to improve mental health outcomes globally.
@@ -31,6 +32,35 @@ This project highlights critical global mental health challenges and identifies 
 Resources
 Dataset: The dataset used in this analysis is publicly available and focuses on global mental health metrics.
 Dashboard Access: Download Here
+
+## Data
+
+<div align="center">
+
+[Click here to download the dataset](https://github.com/srishupadhyay/Mental-Health-Disorder-Trends-1990-2017/blob/132424037a44dcb8cee64be050e837038ff8d1e3/Data/Mental%20health%20Depression%20disorder%20Data.csv)
+
+</div>
+
+
+
+
+<div align="center">
+
+| **Column Name**             | **Description**                                                                 |
+|------------------------------|---------------------------------------------------------------------------------|
+| `index`                     | A numeric index that serves as a unique identifier for each row in the dataset. |
+| `Entity`                    | The name of the country or region being analyzed.                               |
+| `Year`                      | The year in which the data was recorded.                                        |
+| `Schizophrenia (%)`         | The percentage prevalence of schizophrenia in the specified entity and year.    |
+| `Bipolar disorder (%)`      | The percentage prevalence of bipolar disorder in the specified entity and year. |
+| `Eating disorders (%)`      | The percentage prevalence of eating disorders in the specified entity and year. |
+| `Anxiety disorders (%)`     | The percentage prevalence of anxiety disorders in the specified entity and year.|
+| `Drug use disorders (%)`    | The percentage prevalence of drug use disorders in the specified entity and year.|
+| `Depression (%)`            | The percentage prevalence of depression in the specified entity and year.       |
+| `Alcohol use disorders (%)` | The percentage prevalence of alcohol use disorders in the specified entity and year.|
+
+</div>
+
 
 ## Key Insights and Findings
 #### 1. Anxiety Disorders
